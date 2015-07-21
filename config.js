@@ -1,8 +1,8 @@
 exports.server = '158.69.1.126';
 exports.port = 7000;
 exports.serverid = 'eos';
-exports.nick = 'Your bot's name';
-exports.pass = 'Your bot's password';
+exports.nick = 'Your bot\'s name';
+exports.pass = 'Your bot\'s password';
 exports.rooms = ['room1', 'room2'];
 exports.privaterooms = ['private room1', 'private room2'];
 exports.commandcharacter = '.';
